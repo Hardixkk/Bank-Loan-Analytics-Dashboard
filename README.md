@@ -147,9 +147,9 @@ Bank-Loan-Analytics-PowerBI/
 Interested in Power BI, SQL, Excel, business intelligence, and data-driven decision-making.
 
 ### Snapshots 
-https://github.com/Hardixkk/Bank-Loan-Analytics-Dashboard/blob/main/Dashboard%20Bank%20Loan%20Analytics.png
+![image alt](https://github.com/Hardixkk/Bank-Loan-Analytics-Dashboard/blob/main/Dashboard%20Bank%20Loan%20Analytics.png)
 
-https://github.com/Hardixkk/Bank-Loan-Analytics-Dashboard/blob/main/Overview%20Bank%20Loan%20Analytics.png
+![image alt](https://github.com/Hardixkk/Bank-Loan-Analytics-Dashboard/blob/main/Overview%20Bank%20Loan%20Analytics.png)
 
 
 ## ⭐ Acknowledgements
